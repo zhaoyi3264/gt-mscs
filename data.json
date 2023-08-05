@@ -3,7 +3,7 @@
         "Core Courses": [
             {
                 "Pick": 1,
-                "courses": [
+                "Courses": [
                     "CS 6505 Computability, Algorithms, and Complexity",
                     "CS 6515 Introduction to Graduate Algorithms",
                     "CS 6520 Computational Complexity Theory",
@@ -15,7 +15,7 @@
             },
             {
                 "Pick": 1,
-                "courses": [
+                "Courses": [
                     "CS 6601 Artificial Intelligence",
                     "CS 7641 Machine Learning"
                 ]
@@ -24,7 +24,7 @@
         "Electives": [
             {
                 "Pick": 3,
-                "courses": [
+                "Courses": [
                     "CS 6475 Computational Photography",
                     "CS 6476 Computer Vision",
                     "CS 7499 3D Reconstruction",
@@ -46,7 +46,7 @@
         "Core Courses": [
             {
                 "Pick": 1,
-                "courses": [
+                "Courses": [
                     "CS 6491 Foundations of Computer Graphics",
                     "CS 6457 Video Game Design",
                     "CS 7496 Computer Animation"
@@ -54,7 +54,7 @@
             },
             {
                 "Pick": 1,
-                "courses": [
+                "Courses": [
                     "CS 6505 Computability, Algorithms, and Complexity",
                     "CS 6515 Introduction to Graduate Algorithms"
                 ]
@@ -63,7 +63,7 @@
         "Electives": [
             {
                 "Pick": 3,
-                "courses": [
+                "Courses": [
                     "CS 6457 Video Game Design and Programming",
                     "CS 6475 Computational Photography",
                     "CS 6476 Computer Vision",
@@ -80,14 +80,14 @@
         "Core Courses": [
             {
                 "Pick": 1,
-                "courses": [
+                "Courses": [
                     "CS 6505 Computability, Algorithms, and Complexity",
                     "CS 6515 Introduction to Graduate Algorithms"
                 ]
             },
             {
                 "Pick": 2,
-                "courses": [
+                "Courses": [
                     "CS 6210 Advanced Operating Systems",
                     "CS 6241 Compiler Design",
                     "CS 6250 Computer Networks",
@@ -103,7 +103,7 @@
         "Electives": [
             {
                 "Pick": 3,
-                "courses": [
+                "Courses": [
                     "CS 6035 Introduction to Information Security",
                     "CS 6200 Graduate Introduction to Operating Systems",
                     "CS 6220 Big Data Systems and Analytics",
@@ -137,7 +137,7 @@
         "Core Courses": [
             {
                 "Pick": 2,
-                "courses": [
+                "Courses": [
                     "CSE 6140 Computational Science and Engineering Algorithms",
                     "CSE 6220 High Performance Computing"
                 ]
@@ -146,7 +146,7 @@
         "Electives": [
             {
                 "Pick": 3,
-                "courses": [
+                "Courses": [
                     "CSE 6221 Multicore Computing: Concurrency and Parallelism on the Desktop",
                     "CS/CSE 6230 High-Performance Parallel Computing: Tools and Applications",
                     "CS 6241 Compiler Design",
@@ -162,7 +162,7 @@
         "Core Courses": [
             {
                 "Pick": 2,
-                "courses": [
+                "Courses": [
                     "CS 6456 Principles of User Interface Software",
                     "CS 7470 Mobile and Ubiquitous Computing",
                     "CS 6750 Human-Computer Interaction"
@@ -172,7 +172,7 @@
         "Electives": [
             {
                 "Pick": 3,
-                "courses": [
+                "Courses": [
                     "CS 6010 Principles of Design",
                     "CS 6320 Software Requirements Analysis and Specification",
                     "CS 6455 User Interface Design and Evaluation",
@@ -200,7 +200,7 @@
         "Core Courses": [
             {
                 "Pick": 1,
-                "courses": [
+                "Courses": [
                     "CS 6505 Computability, Algorithms, and Complexity",
                     "CS 6515 Introduction to Graduate Algorithms",
                     "CS 6520 Computational Complexity Theory",
@@ -213,7 +213,7 @@
             },
             {
                 "Pick": 1,
-                "courses": [
+                "Courses": [
                     "CS 7641 Machine Learning",
                     "CSE 6740 Computational Data Analysis: Learning, Mining, and Computation"
                 ]
@@ -222,7 +222,7 @@
         "Electives": [
             {
                 "Pick": 3,
-                "courses": [
+                "Courses": [
                     "CS 6220 Big Data Systems & Analysis",
                     "CS 6476 Computer Vision",
                     "CS 6603 AI, Ethics, and Society",
@@ -253,13 +253,13 @@
         "Core Courses": [
             {
                 "Pick": 1,
-                "courses": [
+                "Courses": [
                     "CSE 6730 Modeling and Simulation: Foundations and Implementation"
                 ]
             },
             {
                 "Pick": 1,
-                "courses": [
+                "Courses": [
                     "CSE 6220 High Performance Computing",
                     "ISYE 6644 Simulation",
                     "MATH 6640 Introduction to Numerical Methods for Partial Differential Equations"
@@ -269,7 +269,7 @@
         "Electives": [
             {
                 "Pick": 3,
-                "courses": [
+                "Courses": [
                     "CSE 6220 High Performance Computing",
                     "CSE 6236 Parallel and Distributed Simulation",
                     "CSE/CHEM 8803 Special Topics: Quantum Information, Computation, and Simulation",
@@ -285,13 +285,13 @@
         "Core Courses": [
             {
                 "Pick": 1,
-                "courses": [
+                "Courses": [
                     "CSE/MATH 6643 Numerical Linear Algebra"
                 ]
             },
             {
                 "Pick": 1,
-                "courses": [
+                "Courses": [
                     "CSE/MATH 6644 Iterative Methods for Systems of Equations",
                     "MATH 6640 Introduction to Numerical Methods for Partial Differential Equations"
                 ]
@@ -300,7 +300,7 @@
         "Electives": [
             {
                 "Pick": 3,
-                "courses": [
+                "Courses": [
                     "CS/CSE 6230 High-Performance Parallel Computing: Tools and Applications",
                     "CS/CSE 8803 Special Topics: Parallel Numerical Algorithms",
                     "CSE 6140 Computational Science and Engineering Algorithms",
@@ -317,7 +317,7 @@
         "Core Courses": [
             {
                 "Pick": 2,
-                "courses": [
+                "Courses": [
                     "CS 6470 Design of Online Communities",
                     "CS 6474 Social Computing",
                     "CS 6471 Computational Social Science"
@@ -327,7 +327,7 @@
         "Electives": [
             {
                 "Pick": 3,
-                "courses": [
+                "Courses": [
                     "CS 6238 Secure Computer Systems",
                     "CS 6250 Computer Networks",
                     "CS 6456 Principles of User Interface Software",
@@ -352,7 +352,7 @@
         "Core Courses": [
             {
                 "Pick": 3,
-                "courses": [
+                "Courses": [
                     "CS 6730 Data Visualization: Principles & Applications",
                     "CS 7450 Information Visualization",
                     "CSE 6242 Data and Visual Analytics"
@@ -362,7 +362,7 @@
         "Electives": [
             {
                 "Pick": 2,
-                "courses": [
+                "Courses": [
                     "CS 6456 Principles of User Interface Software",
                     "CS 6465 Computational Journalism",
                     "CS 6491 Computer Graphics",
