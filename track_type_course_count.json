@@ -1,0 +1,52 @@
+{
+    "Computational Perception and Robotics":{
+        "Core Courses":9,
+        "Electives":13,
+        "Total":22
+    },
+    "Computer Graphics":{
+        "Core Courses":5,
+        "Electives":8,
+        "Total":13
+    },
+    "Computing Systems":{
+        "Core Courses":11,
+        "Electives":25,
+        "Total":36
+    },
+    "High Performance Computing":{
+        "Core Courses":2,
+        "Electives":7,
+        "Total":9
+    },
+    "Human-Computer Interaction":{
+        "Core Courses":3,
+        "Electives":19,
+        "Total":22
+    },
+    "Machine Learning":{
+        "Core Courses":10,
+        "Electives":22,
+        "Total":32
+    },
+    "Modeling and Simulations":{
+        "Core Courses":4,
+        "Electives":7,
+        "Total":11
+    },
+    "Scientific Computing":{
+        "Core Courses":3,
+        "Electives":8,
+        "Total":11
+    },
+    "Social Computing":{
+        "Core Courses":3,
+        "Electives":16,
+        "Total":19
+    },
+    "Visual Analytics":{
+        "Core Courses":3,
+        "Electives":8,
+        "Total":11
+    }
+}
