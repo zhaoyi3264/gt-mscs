@@ -1,3 +1,6 @@
+# References:
+# - https://docs.streamlit.io/
+
 import streamlit as st
 
 from util import get_title, load_json_in
@@ -34,9 +37,6 @@ other_tracks = set(tracks.keys()) - set([track])
 other_track = st.selectbox(':bulb: Another Track', sorted(other_tracks))
 overlap_courses = track_overlap_courses[track][other_track]
 
-# for other_track, overlap_courses in track_overlap_courses[track].items():
-#     if other_track != track:
-
 overlap_course_count = len(overlap_courses)
 
 if overlap_course_count <= 0:
@@ -54,4 +54,3 @@ for overlap_course in overlap_courses:
 
 # TODO
 # - Display if online is available, total online available
-# - Show a list of all courses
