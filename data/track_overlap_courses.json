@@ -9,25 +9,25 @@
         ],
         "Computing Systems": [
             "CS 6515 Introduction to Graduate Algorithms",
-            "CS 6505 Computability, Algorithms, and Complexity",
-            "CS 6550 Design and Analysis of Algorithms"
+            "CS 6550 Design and Analysis of Algorithms",
+            "CS 6505 Computability, Algorithms, and Complexity"
         ],
         "High Performance Computing": [
             "CSE 6140 Computational Science and Engineering Algorithms"
         ],
         "Human-Computer Interaction": [],
         "Machine Learning": [
-            "CS 6505 Computability, Algorithms, and Complexity",
-            "CS 7530 Randomized Algorithms",
-            "CS 6520 Computational Complexity Theory",
             "CSE 6140 Computational Science and Engineering Algorithms",
-            "CS 6515 Introduction to Graduate Algorithms",
-            "CS 7641 Machine Learning",
-            "CS 6476 Computer Vision",
-            "CS 7644 Machine Learning for Robotics",
-            "CS 7650 Natural Language",
             "CS 7520 Approximation Algorithms",
-            "CS 6550 Design and Analysis of Algorithms"
+            "CS 6550 Design and Analysis of Algorithms",
+            "CS 6476 Computer Vision",
+            "CS 6515 Introduction to Graduate Algorithms",
+            "CS 6520 Computational Complexity Theory",
+            "CS 7641 Machine Learning",
+            "CS 7644 Machine Learning for Robotics",
+            "CS 6505 Computability, Algorithms, and Complexity",
+            "CS 7650 Natural Language",
+            "CS 7530 Randomized Algorithms"
         ],
         "Modeling and Simulations": [],
         "Scientific Computing": [
@@ -35,8 +35,8 @@
         ],
         "Social Computing": [
             "CS 6515 Introduction to Graduate Algorithms",
-            "CS 6505 Computability, Algorithms, and Complexity",
-            "CS 7650 Natural Language"
+            "CS 7650 Natural Language",
+            "CS 6505 Computability, Algorithms, and Complexity"
         ],
         "Visual Analytics": [
             "CS 7641 Machine Learning"
@@ -56,8 +56,8 @@
         ],
         "High Performance Computing": [],
         "Human-Computer Interaction": [
-            "CS 6457 Video Game Design",
-            "CS 7450 Information Visualization"
+            "CS 7450 Information Visualization",
+            "CS 6457 Video Game Design"
         ],
         "Machine Learning": [
             "CS 6476 Computer Vision",
@@ -67,8 +67,8 @@
         "Modeling and Simulations": [],
         "Scientific Computing": [],
         "Social Computing": [
-            "CS 7450 Information Visualization",
             "CS 6515 Introduction to Graduate Algorithms",
+            "CS 7450 Information Visualization",
             "CS 6505 Computability, Algorithms, and Complexity"
         ],
         "Visual Analytics": [
@@ -78,8 +78,8 @@
     "Computing Systems": {
         "Computational Perception and Robotics": [
             "CS 6515 Introduction to Graduate Algorithms",
-            "CS 6505 Computability, Algorithms, and Complexity",
-            "CS 6550 Design and Analysis of Algorithms"
+            "CS 6550 Design and Analysis of Algorithms",
+            "CS 6505 Computability, Algorithms, and Complexity"
         ],
         "Computer Graphics": [
             "CS 6515 Introduction to Graduate Algorithms",
@@ -87,16 +87,16 @@
         ],
         "Computing Systems": [],
         "High Performance Computing": [
+            "CS 6290 High-Performance Computer Architecture",
             "CSE 6220 High Performance Computing",
-            "CS 6241 Compiler Design",
-            "CS 6290 High-Performance Computer Architecture"
+            "CS 6241 Compiler Design"
         ],
         "Human-Computer Interaction": [],
         "Machine Learning": [
             "CS 6515 Introduction to Graduate Algorithms",
             "CS 7280 Network Science",
-            "CS 6505 Computability, Algorithms, and Complexity",
-            "CS 6550 Design and Analysis of Algorithms"
+            "CS 6550 Design and Analysis of Algorithms",
+            "CS 6505 Computability, Algorithms, and Complexity"
         ],
         "Modeling and Simulations": [
             "CSE 6220 High Performance Computing",
@@ -106,14 +106,14 @@
             "CSE 6220 High Performance Computing"
         ],
         "Social Computing": [
-            "CS 7280 Network Science",
-            "CS 6505 Computability, Algorithms, and Complexity",
-            "CS 6238 Secure Computer Systems",
-            "CS 6515 Introduction to Graduate Algorithms",
-            "CS 6250 Computer Networks",
             "CS 7270 Networked Applications and Services",
+            "CS 7280 Network Science",
             "CS 7210 Distributed Computing",
-            "CS 6675 Advanced Internet Computing Systems and Applications"
+            "CS 6250 Computer Networks",
+            "CS 6675 Advanced Internet Computing Systems and Applications",
+            "CS 6515 Introduction to Graduate Algorithms",
+            "CS 6505 Computability, Algorithms, and Complexity",
+            "CS 6238 Secure Computer Systems"
         ],
         "Visual Analytics": []
     },
@@ -123,9 +123,9 @@
         ],
         "Computer Graphics": [],
         "Computing Systems": [
+            "CS 6290 High-Performance Computer Architecture",
             "CSE 6220 High Performance Computing",
-            "CS 6241 Compiler Design",
-            "CS 6290 High-Performance Computer Architecture"
+            "CS 6241 Compiler Design"
         ],
         "High Performance Computing": [],
         "Human-Computer Interaction": [],
@@ -138,9 +138,9 @@
         ],
         "Scientific Computing": [
             "CSE 6220 High Performance Computing",
+            "CS/CSE 6230 High-Performance Parallel Computing: Tools and Applications",
             "CSE 6140 Computational Science and Engineering Algorithms",
-            "CS/CSE 8803 Special Topics: Parallel Numerical Algorithms",
-            "CS/CSE 6230 High-Performance Parallel Computing: Tools and Applications"
+            "CS/CSE 8803 Special Topics: Parallel Numerical Algorithms"
         ],
         "Social Computing": [],
         "Visual Analytics": []
@@ -148,8 +148,8 @@
     "Human-Computer Interaction": {
         "Computational Perception and Robotics": [],
         "Computer Graphics": [
-            "CS 6457 Video Game Design",
-            "CS 7450 Information Visualization"
+            "CS 7450 Information Visualization",
+            "CS 6457 Video Game Design"
         ],
         "Computing Systems": [],
         "High Performance Computing": [],
@@ -158,38 +158,38 @@
         "Modeling and Simulations": [],
         "Scientific Computing": [],
         "Social Computing": [
-            "CS 6470 Design of Online Communities",
-            "CS 6750 Human-Computer Interaction",
-            "CS 6456 Principles of User Interface Software",
-            "CS 6465 Computational Journalism",
-            "CS 7467 Computer-Supported Collaborative Learning",
             "CS 7450 Information Visualization",
-            "CS 6730 Data Visualization: Principles & Applications",
-            "CS 7451 Human-Centered Data Analysis"
+            "CS 7467 Computer-Supported Collaborative Learning",
+            "CS 6456 Principles of User Interface Software",
+            "CS 6750 Human-Computer Interaction",
+            "CS 6470 Design of Online Communities",
+            "CS 6465 Computational Journalism",
+            "CS 7451 Human-Centered Data Analysis",
+            "CS 6730 Data Visualization: Principles & Applications"
         ],
         "Visual Analytics": [
+            "CS 7450 Information Visualization",
+            "CS 6456 Principles of User Interface Software",
             "CS 6795 Introduction to Cognitive Science",
             "CS 6750 Human-Computer Interaction",
-            "CS 6456 Principles of User Interface Software",
             "CS 6465 Computational Journalism",
-            "CS 7450 Information Visualization",
-            "CS 6730 Data Visualization: Principles & Applications",
-            "CS 7451 Human-Centered Data Analysis"
+            "CS 7451 Human-Centered Data Analysis",
+            "CS 6730 Data Visualization: Principles & Applications"
         ]
     },
     "Machine Learning": {
         "Computational Perception and Robotics": [
-            "CS 6505 Computability, Algorithms, and Complexity",
-            "CS 7530 Randomized Algorithms",
-            "CS 6520 Computational Complexity Theory",
             "CSE 6140 Computational Science and Engineering Algorithms",
-            "CS 6515 Introduction to Graduate Algorithms",
-            "CS 7641 Machine Learning",
-            "CS 6476 Computer Vision",
-            "CS 7644 Machine Learning for Robotics",
-            "CS 7650 Natural Language",
             "CS 7520 Approximation Algorithms",
-            "CS 6550 Design and Analysis of Algorithms"
+            "CS 6550 Design and Analysis of Algorithms",
+            "CS 6476 Computer Vision",
+            "CS 6515 Introduction to Graduate Algorithms",
+            "CS 6520 Computational Complexity Theory",
+            "CS 7641 Machine Learning",
+            "CS 7644 Machine Learning for Robotics",
+            "CS 6505 Computability, Algorithms, and Complexity",
+            "CS 7650 Natural Language",
+            "CS 7530 Randomized Algorithms"
         ],
         "Computer Graphics": [
             "CS 6476 Computer Vision",
@@ -199,8 +199,8 @@
         "Computing Systems": [
             "CS 6515 Introduction to Graduate Algorithms",
             "CS 7280 Network Science",
-            "CS 6505 Computability, Algorithms, and Complexity",
-            "CS 6550 Design and Analysis of Algorithms"
+            "CS 6550 Design and Analysis of Algorithms",
+            "CS 6505 Computability, Algorithms, and Complexity"
         ],
         "High Performance Computing": [
             "CSE 6140 Computational Science and Engineering Algorithms"
@@ -215,13 +215,13 @@
         ],
         "Social Computing": [
             "CS 6515 Introduction to Graduate Algorithms",
+            "CS 7650 Natural Language",
             "CS 7280 Network Science",
-            "CS 6505 Computability, Algorithms, and Complexity",
-            "CS 7650 Natural Language"
+            "CS 6505 Computability, Algorithms, and Complexity"
         ],
         "Visual Analytics": [
-            "CSE 6242 Data and Visual Analytics",
-            "CS 7641 Machine Learning"
+            "CS 7641 Machine Learning",
+            "CSE 6242 Data and Visual Analytics"
         ]
     },
     "Modeling and Simulations": {
@@ -259,9 +259,9 @@
         ],
         "High Performance Computing": [
             "CSE 6220 High Performance Computing",
+            "CS/CSE 6230 High-Performance Parallel Computing: Tools and Applications",
             "CSE 6140 Computational Science and Engineering Algorithms",
-            "CS/CSE 8803 Special Topics: Parallel Numerical Algorithms",
-            "CS/CSE 6230 High-Performance Parallel Computing: Tools and Applications"
+            "CS/CSE 8803 Special Topics: Parallel Numerical Algorithms"
         ],
         "Human-Computer Interaction": [],
         "Machine Learning": [
@@ -278,40 +278,40 @@
     "Social Computing": {
         "Computational Perception and Robotics": [
             "CS 6515 Introduction to Graduate Algorithms",
-            "CS 6505 Computability, Algorithms, and Complexity",
-            "CS 7650 Natural Language"
+            "CS 7650 Natural Language",
+            "CS 6505 Computability, Algorithms, and Complexity"
         ],
         "Computer Graphics": [
-            "CS 7450 Information Visualization",
             "CS 6515 Introduction to Graduate Algorithms",
+            "CS 7450 Information Visualization",
             "CS 6505 Computability, Algorithms, and Complexity"
         ],
         "Computing Systems": [
-            "CS 7280 Network Science",
-            "CS 6505 Computability, Algorithms, and Complexity",
-            "CS 6238 Secure Computer Systems",
-            "CS 6515 Introduction to Graduate Algorithms",
-            "CS 6250 Computer Networks",
             "CS 7270 Networked Applications and Services",
+            "CS 7280 Network Science",
             "CS 7210 Distributed Computing",
-            "CS 6675 Advanced Internet Computing Systems and Applications"
+            "CS 6250 Computer Networks",
+            "CS 6675 Advanced Internet Computing Systems and Applications",
+            "CS 6515 Introduction to Graduate Algorithms",
+            "CS 6505 Computability, Algorithms, and Complexity",
+            "CS 6238 Secure Computer Systems"
         ],
         "High Performance Computing": [],
         "Human-Computer Interaction": [
-            "CS 6470 Design of Online Communities",
-            "CS 6750 Human-Computer Interaction",
-            "CS 6456 Principles of User Interface Software",
-            "CS 6465 Computational Journalism",
-            "CS 7467 Computer-Supported Collaborative Learning",
             "CS 7450 Information Visualization",
-            "CS 6730 Data Visualization: Principles & Applications",
-            "CS 7451 Human-Centered Data Analysis"
+            "CS 7467 Computer-Supported Collaborative Learning",
+            "CS 6456 Principles of User Interface Software",
+            "CS 6750 Human-Computer Interaction",
+            "CS 6470 Design of Online Communities",
+            "CS 6465 Computational Journalism",
+            "CS 7451 Human-Centered Data Analysis",
+            "CS 6730 Data Visualization: Principles & Applications"
         ],
         "Machine Learning": [
             "CS 6515 Introduction to Graduate Algorithms",
+            "CS 7650 Natural Language",
             "CS 7280 Network Science",
-            "CS 6505 Computability, Algorithms, and Complexity",
-            "CS 7650 Natural Language"
+            "CS 6505 Computability, Algorithms, and Complexity"
         ],
         "Modeling and Simulations": [
             "CS 7280 Network Science"
@@ -319,12 +319,12 @@
         "Scientific Computing": [],
         "Social Computing": [],
         "Visual Analytics": [
-            "CS 6750 Human-Computer Interaction",
-            "CS 6456 Principles of User Interface Software",
-            "CS 6465 Computational Journalism",
             "CS 7450 Information Visualization",
-            "CS 6730 Data Visualization: Principles & Applications",
-            "CS 7451 Human-Centered Data Analysis"
+            "CS 6456 Principles of User Interface Software",
+            "CS 6750 Human-Computer Interaction",
+            "CS 6465 Computational Journalism",
+            "CS 7451 Human-Centered Data Analysis",
+            "CS 6730 Data Visualization: Principles & Applications"
         ]
     },
     "Visual Analytics": {
@@ -337,27 +337,27 @@
         "Computing Systems": [],
         "High Performance Computing": [],
         "Human-Computer Interaction": [
+            "CS 7450 Information Visualization",
+            "CS 6456 Principles of User Interface Software",
             "CS 6795 Introduction to Cognitive Science",
             "CS 6750 Human-Computer Interaction",
-            "CS 6456 Principles of User Interface Software",
             "CS 6465 Computational Journalism",
-            "CS 7450 Information Visualization",
-            "CS 6730 Data Visualization: Principles & Applications",
-            "CS 7451 Human-Centered Data Analysis"
+            "CS 7451 Human-Centered Data Analysis",
+            "CS 6730 Data Visualization: Principles & Applications"
         ],
         "Machine Learning": [
-            "CSE 6242 Data and Visual Analytics",
-            "CS 7641 Machine Learning"
+            "CS 7641 Machine Learning",
+            "CSE 6242 Data and Visual Analytics"
         ],
         "Modeling and Simulations": [],
         "Scientific Computing": [],
         "Social Computing": [
-            "CS 6750 Human-Computer Interaction",
-            "CS 6456 Principles of User Interface Software",
-            "CS 6465 Computational Journalism",
             "CS 7450 Information Visualization",
-            "CS 6730 Data Visualization: Principles & Applications",
-            "CS 7451 Human-Centered Data Analysis"
+            "CS 6456 Principles of User Interface Software",
+            "CS 6750 Human-Computer Interaction",
+            "CS 6465 Computational Journalism",
+            "CS 7451 Human-Centered Data Analysis",
+            "CS 6730 Data Visualization: Principles & Applications"
         ],
         "Visual Analytics": []
     }

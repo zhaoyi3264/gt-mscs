@@ -1,21 +1,18 @@
-import os
-
 import streamlit as st
 
-from util import load_json
+from util import get_title, load_json_in
 
 data_dir = 'data'
-
-def load_json_in(data_dir, file_name):
-    return load_json(os.path.join(data_dir, file_name))
-
 tracks = load_json_in(data_dir, 'tracks.json')
 track_type_course_count = load_json_in(data_dir, 'track_type_course_count.json')
 track_overlap_courses = load_json_in(data_dir, 'track_overlap_courses.json')
 
-st.markdown('# :computer: Georgia Tech MSCS Tracks ')
+title = get_title()
+st.set_page_config(page_title=title, page_icon=':computer:')
 
-track = st.selectbox(':bulb: Track', tracks.keys())
+st.markdown(f'# :computer: {title}')
+
+track = st.selectbox(':bulb: Track', sorted(tracks.keys()))
 
 st.metric(':books: Available Courses', track_type_course_count[track]['Total'])
 
@@ -56,6 +53,5 @@ for overlap_course in overlap_courses:
     st.markdown(f'- {overlap_course}')
 
 # TODO
-# For each track
 # - Display if online is available, total online available
-# - Display has the most overlap with what other tracks.
+# - Show a list of all courses
