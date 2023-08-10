@@ -8,11 +8,7 @@ map_dict_value = util.map_dict_value
 data_dir = 'data'
 track_overlap_courses = util.load_json_in(data_dir, 'track_overlap_courses.json')
 
-title = f'{util.get_title()}: Overlapping Courses'
-
-st.set_page_config(page_title=title, page_icon=':computer:')
-
-st.markdown(f'# :computer: {title}')
+util.set_title('Overlapping Courses')
 
 track = st.selectbox(':bulb: Track', sorted(track_overlap_courses.keys()))
 

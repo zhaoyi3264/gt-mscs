@@ -3,7 +3,7 @@
 
 import streamlit as st
 
-from util import get_title, load_json_in
+from util import set_title, load_json_in, flatten, map_dict_value
 
 data_dir = 'data'
 tracks = load_json_in(data_dir, 'tracks.json')
@@ -11,14 +11,19 @@ track_type_course_count = load_json_in(data_dir, 'track_type_course_count.json')
 track_overlap_courses = load_json_in(data_dir, 'track_overlap_courses.json')
 course_to_links = load_json_in(data_dir, 'course_to_links.json')
 
-title = get_title()
-st.set_page_config(page_title=title, page_icon=':computer:')
+track_to_courses = map_dict_value(tracks, lambda v: set(flatten([e['Courses'] for e in flatten(v.values())])))
 
-st.markdown(f'# :computer: {title}')
+set_title()
 
 track = st.selectbox(':bulb: Track', sorted(tracks.keys()))
 
-st.metric(':books: Available Courses', track_type_course_count[track]['Total'])
+free_courses_count = sum(bool(course_to_links.get(course, {}).get('Free Course Link')) for course in track_to_courses[track])
+
+left_col, right_col = st.columns(2)
+with left_col:
+    st.metric(':books: Available Courses', track_type_course_count[track]['Total'])
+with right_col:
+    st.metric(':free: Available Free Courses', free_courses_count)
 
 tabs = st.tabs([f'{e} {t}' for e, t in zip([':lock:', ':thought_balloon:'], tracks[track])])
 for tab, (course_type, course_subset) in zip(tabs, tracks[track].items()):
@@ -34,10 +39,10 @@ for tab, (course_type, course_subset) in zip(tabs, tracks[track].items()):
                     label = f'[{course}]({omscs_course_link})'
                 else:
                     label = course
-                col0, col1 = st.columns([8, 2], gap='small')
-                with col0:
+                left_col, right_col = st.columns([8, 2], gap='small')
+                with left_col:
                     selected += st.checkbox(label, key=f'{course_type}_{course}_{i}')
-                with col1:
+                with right_col:
                     text = ''
                     if free_course_link := links.get('Free Course Link', ''):
                         text += f'Free Course'
@@ -65,6 +70,3 @@ else:
 st.metric(f'{emo} Overlapping Courses', overlap_course_count)
 for overlap_course in overlap_courses:
     st.markdown(f'- {overlap_course}')
-
-# TODO
-# - Display if online is available, total online available

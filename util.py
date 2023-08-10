@@ -1,8 +1,12 @@
 import json
 import os
 
-def get_title():
-    return 'Georgia Tech MSCS Tracks'
+import streamlit as st
+
+def set_title(subtitle=''):
+    title = 'Georgia Tech MSCS Tracks' + (f': {subtitle}' if subtitle else '')
+    st.set_page_config(page_title=title, page_icon=':computer:')
+    st.markdown(f'# :computer: {title}')
 
 def load_json(file_name):
     with open(file_name, 'r') as f:
