@@ -9,6 +9,7 @@ data_dir = 'data'
 tracks = load_json_in(data_dir, 'tracks.json')
 track_type_course_count = load_json_in(data_dir, 'track_type_course_count.json')
 track_overlap_courses = load_json_in(data_dir, 'track_overlap_courses.json')
+course_to_links = load_json_in(data_dir, 'course_to_links.json')
 
 title = get_title()
 st.set_page_config(page_title=title, page_icon=':computer:')
@@ -27,7 +28,20 @@ for tab, (course_type, course_subset) in zip(tabs, tracks[track].items()):
             selected = 0
             st.markdown(f'_Pick {subset["Pick"]} from:_')
             for i, course in enumerate(subset['Courses']):
-                selected += st.checkbox(course, key=f'{course_type}_{course}_{i}')
+                links = course_to_links.get(course, {})
+                
+                if omscs_course_link := links.get('OMSCS Course Link', ''):
+                    label = f'[{course}]({omscs_course_link})'
+                else:
+                    label = course
+                col0, col1 = st.columns([8, 2], gap='small')
+                with col0:
+                    selected += st.checkbox(label, key=f'{course_type}_{course}_{i}')
+                with col1:
+                    text = ''
+                    if free_course_link := links.get('Free Course Link', ''):
+                        text += f'Free Course'
+                    st.markdown(f'<div style="text-align: right;"><a href={free_course_link}>{text}</a></div>', unsafe_allow_html=True)
             if selected > subset['Pick']:
                 st.error(':worried: You could do that but it is not necessary.')
 

@@ -16,6 +16,9 @@ def to_json(file_name, obj):
     with open(file_name, 'w') as f:
         json.dump(obj, f, indent=4)
 
+def to_json_in(data_dir, file_name, obj):
+    to_json(os.path.join(data_dir, file_name), obj)
+
 def map_dict_value(d, func, *args):
     return dict(map(lambda k: (k, func(d[k], *args)), d))
 
