@@ -1,12 +1,10 @@
 import pandas as pd
 import streamlit as st
 
+import data
 import util
 
-map_dict_value = util.map_dict_value
-
-data_dir = 'data'
-track_overlap_courses = util.load_json_in(data_dir, 'track_overlap_courses.json')
+track_overlap_courses = data.track_overlap_courses
 
 util.set_title('Overlapping Courses')
 
@@ -18,5 +16,5 @@ map_func = (lambda v: [v]) if show_courses else len
 
 st.divider()
 
-df = pd.DataFrame(map_dict_value(track_overlap_courses[track], map_func), index=[track]).T
+df = pd.DataFrame(util.map_dict_value(track_overlap_courses[track], map_func), index=[track]).T
 st.dataframe(df, use_container_width=True)

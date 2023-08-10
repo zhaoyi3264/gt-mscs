@@ -4,9 +4,20 @@ import os
 import streamlit as st
 
 def set_title(subtitle=''):
-    title = 'Georgia Tech MSCS Tracks' + (f': {subtitle}' if subtitle else '')
+    title = 'Georgia Tech MSCS' + (f': {subtitle}' if subtitle else '')
     st.set_page_config(page_title=title, page_icon=':computer:')
     st.markdown(f'# :computer: {title}')
+
+def emo_metric(label, value):
+    if value <= 0:
+        emo = ':cry:'
+    elif value <= 3:
+        emo = ':grinning:'
+    elif value <= 5:
+        emo = ':smile:'
+    else:
+        emo = ':satisfied:'
+    st.metric(f'{emo} {label}', value)
 
 def load_json(file_name):
     with open(file_name, 'r') as f:

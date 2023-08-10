@@ -13,5 +13,5 @@ pip3 install -r requirements.txt
 
 Start the app locally.
 ```{bash}
-streamlit run 'General_Info.py'
+streamlit run 'Tracks.py'
 ```

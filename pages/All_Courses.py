@@ -1,15 +1,14 @@
 import pandas as pd
 import streamlit as st
 
+import data
 import util
 
-data_dir = 'data'
-all_courses = util.load_json_in(data_dir, 'all_courses.json')
-course_to_links = util.load_json_in(data_dir, 'course_to_links.json')
+all_courses = data.all_courses
+course_to_links = data.course_to_links
 
 util.set_title('All Courses')
 
-# courses = pd.Series(all_courses, name='Course')
 course_to_links = pd.DataFrame(course_to_links).T.reset_index(names=['Course'])
 
 st.markdown(':mag: Search')
