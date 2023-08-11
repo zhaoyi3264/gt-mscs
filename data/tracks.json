@@ -38,6 +38,22 @@
                     "CS 7638 Artificial Intelligence Techniques for Robotics",
                     "CS 7648 Interactive Robot Learning",
                     "CS 7649 Robot Intelligence: Planning"
+                ],
+                "Sub-area Condition": "at least 1 from each sub-area",
+                "Sub-area": [
+                    "Perception",
+                    "Perception",
+                    "Perception",
+                    "Perception",
+                    "Perception",
+                    "Perception",
+                    "Perception",
+                    "Robotics",
+                    "Robotics",
+                    "Robotics",
+                    "Robotics",
+                    "Robotics",
+                    "Robotics"
                 ]
             }
         ]
@@ -158,6 +174,55 @@
             }
         ]
     },
+    "Human Centered Computing": {
+        "Core Courses": [
+            {
+                "Pick": 3,
+                "Courses": [
+                    "CS 6451 Intro to HCC",
+                    "CS 6452 Prototyping Interactive Systems",
+                    "CS 7455 Issues in HCC"
+                ]
+            }
+        ],
+        "Electives": [
+            {
+                "Pick": 2,
+                "Courses": [
+                    "CS 6455 User Interface Design and Evaluation",
+                    "CS 6456 User Interface Software",
+                    "CS 6460 Educational Technology: Conceptual Foundations",
+                    "CS 6465 Computational Journalism",
+                    "CS 6470 Design of Online Communities",
+                    "CS 6471 Computational Social Science",
+                    "CS 6474 Social Computing",
+                    "CS 6476 Computer Vision",
+                    "CS 6601 Artificial Intelligence",
+                    "CS 6730 Data Visualization: Principles & Applications",
+                    "CS 6750 Human-Computer Interaction",
+                    "CS 6795 Introduction to Cognitive Science",
+                    "CS 7450 Information Visualization",
+                    "CS 7451 Human-Centered Data Analysis",
+                    "CS 7460 Collaborative Computing",
+                    "CS 7461 Machine Learning",
+                    "CS 7470 Mobile and Ubiquitous Computing",
+                    "CS 7476 Advanced Computer Vision",
+                    "CS 7610 Modeling and Design",
+                    "CS 7632 Game AI",
+                    "CS 7633 Human Robot Interaction",
+                    "CS 7637 Knowledge-Based AI",
+                    "CS 7620 Case-based Reasoning",
+                    "CS 7650 Natural Language",
+                    "CS 7695 Philosophy of Cognition",
+                    "CS 7697 Cognitive Models of Science and Technology",
+                    "CS 7790 Cognitive Modeling",
+                    "CS 8803 Computational Creativity",
+                    "CS 8803 Expressive AI",
+                    "CS 8803 Computers, Communications & International Development"
+                ]
+            }
+        ]
+    },
     "Human-Computer Interaction": {
         "Core Courses": [
             {
@@ -192,6 +257,97 @@
                     "CS 7451 Human-Centered Data Analysis",
                     "CS 7460 Collaborative Computing",
                     "CS 7470 Mobile and Ubiquitous Computing"
+                ],
+                "Sub-area Condition": "at least 1 from each sub-area",
+                "Sub-area": [
+                    "Design and evaluation concepts",
+                    "Design and evaluation concepts",
+                    "Design and evaluation concepts",
+                    "Design and evaluation concepts",
+                    "Design and evaluation concepts",
+                    "Design and evaluation concepts",
+                    "Design and evaluation concepts",
+                    "Design and evaluation concepts",
+                    "Design and evaluation concepts",
+                    "Design and evaluation concepts",
+                    "Design and evaluation concepts",
+                    "Interactive technology",
+                    "Interactive technology",
+                    "Interactive technology",
+                    "Interactive technology",
+                    "Interactive technology",
+                    "Interactive technology",
+                    "Interactive technology",
+                    "Interactive technology"
+                ]
+            }
+        ]
+    },
+    "Interactive Intelligence": {
+        "Core Courses": [
+            {
+                "Pick": 1,
+                "Courses": [
+                    "CS 6300 Software Development Process",
+                    "CS 6301 Advanced Topics in Software Engineering",
+                    "CS 6505 Computability, Algorithms, and Complexity",
+                    "CS 6515 Introduction to Graduate Algorithms",
+                    "CSE 6140 Computational Science and Engineering Algorithms"
+                ]
+            },
+            {
+                "Pick": 2,
+                "Courses": [
+                    "CS 6601 Artificial Intelligence",
+                    "CS 7637 Knowledge-Based AI",
+                    "CS 7641 Machine Learning"
+                ]
+            }
+        ],
+        "Electives": [
+            {
+                "Pick": 2,
+                "Courses": [
+                    "CS 6440 Introduction to Health Informatics",
+                    "CS 6460 Educational Technology: Conceptual Foundations",
+                    "CS 6465 Computational Journalism",
+                    "CS 6471 Computational Social Science",
+                    "CS 6603 AI, Ethics, and Society",
+                    "CS 6750 Human-Computer Interaction",
+                    "CS 6476 Computer Vision",
+                    "CS 7631 Multi-Robot Systems",
+                    "CS 7632 Game AI",
+                    "CS 7633 Human-Robot Interaction",
+                    "CS 7634 AI Storytelling in Virtual Worlds",
+                    "CS 7643 Deep Learning",
+                    "CS 7647 Machine Learning with Limited Supervision",
+                    "CS 7650 Natural Language",
+                    "CS 8803 Special Topics: Advanced Game AI",
+                    "CS 6795 Introduction to Cognitive Science",
+                    "CS 7610 Modeling and Design",
+                    "CS 7651 Human and Machine Learning",
+                    "CS 8803 Special Topics: Computational Creativity"
+                ],
+                "Sub-area": [
+                    "Interaction",
+                    "Interaction",
+                    "Interaction",
+                    "Interaction",
+                    "Interaction",
+                    "Interaction",
+                    "AI Methods",
+                    "AI Methods",
+                    "AI Methods",
+                    "AI Methods",
+                    "AI Methods",
+                    "AI Methods",
+                    "AI Methods",
+                    "AI Methods",
+                    "AI Methods",
+                    "Cognition",
+                    "Cognition",
+                    "Cognition",
+                    "Cognition"
                 ]
             }
         ]

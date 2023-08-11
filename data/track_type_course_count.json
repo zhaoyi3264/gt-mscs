@@ -19,10 +19,20 @@
         "Electives":7,
         "Total":9
     },
+    "Human Centered Computing":{
+        "Core Courses":3,
+        "Electives":30,
+        "Total":33
+    },
     "Human-Computer Interaction":{
         "Core Courses":3,
         "Electives":19,
         "Total":22
+    },
+    "Interactive Intelligence":{
+        "Core Courses":8,
+        "Electives":19,
+        "Total":27
     },
     "Machine Learning":{
         "Core Courses":10,

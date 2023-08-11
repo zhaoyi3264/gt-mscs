@@ -1,433 +1,13 @@
 {
-    "CSE 8803 Special Topics: Algorithms for Medical Imaging and Inverse Problems":{
-        "Course Code":"CSE 8803",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6400 Database Systems Concepts and Designs":{
-        "Course Code":"CS 6400",
-        "OMSCS Course":"CS 6400 Database Systems Concepts and Design",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6400-database-systems-concepts-and-design",
-        "Free Course":"Database Systems Concepts & Design",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/database-systems-concepts-design--ud150"
-    },
-    "CS 7470 Mobile and Ubiquitous Computing":{
-        "Course Code":"CS 7470",
-        "OMSCS Course":"CS 7470 Mobile & Ubiquitous Computing",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7470-mobile-ubiquitous-computing",
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6475 Computational Photography":{
-        "Course Code":"CS 6475",
-        "OMSCS Course":"CS 6475 Computational Photography",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6475-computational-photography",
-        "Free Course":"Computational Photography",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/computational-photography--ud955"
-    },
-    "CS 7650 Natural Language":{
-        "Course Code":"CS 7650",
-        "OMSCS Course":"CS 7650 Natural Language Processing",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7650-natural-language-processing",
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6010 Principles of Design":{
-        "Course Code":"CS 6010",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7630 Autonomous Robotics":{
-        "Course Code":"CS 7630",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7560 Theory of Cryptography":{
-        "Course Code":"CS 7560",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6474 Social Computing":{
-        "Course Code":"CS 6474",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7270 Networked Applications and Services":{
-        "Course Code":"CS 7270",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7648 Interactive Robot Learning":{
-        "Course Code":"CS 7648",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7290 Advanced Topics in Microarchitecture":{
-        "Course Code":"CS 7290",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CSE 6250 Big Data for Health":{
-        "Course Code":"CSE 6250",
-        "OMSCS Course":"CSE 6250 Big Data for Health Informatics",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cse-8803-special-topics-big-data-for-health-informatics",
-        "Free Course":"Big Data Analytics in Healthcare",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/big-data-analytics-in-healthcare--ud758"
-    },
-    "CS 6220 Big Data Systems & Analysis":{
-        "Course Code":"CS 6220",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6750 Human-Computer Interaction":{
-        "Course Code":"CS 6750",
-        "OMSCS Course":"CS 6750 Human-Computer Interaction",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6750-human-computer-interaction",
-        "Free Course":"Human-Computer Interaction",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/human-computer-interaction--ud400"
-    },
-    "CS 6491 Computer Graphics":{
-        "Course Code":"CS 6491",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6601 Artificial Intelligence":{
-        "Course Code":"CS 6601",
-        "OMSCS Course":"CS 6601 Artificial Intelligence",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6601-artificial-intelligence",
-        "Free Course":"Artificial Intelligence",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/artificial-intelligence--ud954"
-    },
-    "CS 7450 Information Visualization":{
-        "Course Code":"CS 7450",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CSE 6221 Multicore Computing: Concurrency and Parallelism on the Desktop":{
-        "Course Code":"CSE 6221",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6290 High-Performance Computer Architecture":{
-        "Course Code":"CS 6290",
-        "OMSCS Course":"CS 6290 High Performance Computer Architecture",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6290-high-performance-computer-architecture",
-        "Free Course":"High Performance Computer Architecture",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/high-performance-computer-architecture--ud007"
-    },
-    "CS 6035 Introduction to Information Security":{
-        "Course Code":"CS 6035",
-        "OMSCS Course":"CS 6035 Introduction to Information Security",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6035-introduction-to-information-security",
-        "Free Course":"Introduction to Information Security",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/intro-to-information-security--ud459"
-    },
-    "CS 6471 Computational Social Science":{
-        "Course Code":"CS 6471",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7626 Behavioral Imaging":{
-        "Course Code":"CS 7626",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6492 Shape Grammars":{
-        "Course Code":"CS 6492",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6470 Design of Online Communities":{
-        "Course Code":"CS 6470",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7633 Human-Robot Interaction":{
-        "Course Code":"CS 7633",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7631 Autonomous Multi-Robot Systems":{
-        "Course Code":"CS 7631",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "ISYE 6420 Bayesian Methods":{
-        "Course Code":"ISYE 6420",
-        "OMSCS Course":"ISYE 6420 Bayesian Statistics",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/isye-6420-bayesian-statistics",
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CSE 6236 Parallel and Distributed Simulation":{
-        "Course Code":"CSE 6236",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6770 Mixed Reality Experience Design":{
-        "Course Code":"CS 6770",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6730 Data Visualization: Principles & Applications":{
-        "Course Code":"CS 6730",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CSE 8803\/CHEM 6485 Computational Chemistry":{
-        "Course Code":"CSE 8803\/CHEM",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CSE 6240 Web Search and Text Mining":{
-        "Course Code":"CSE 6240",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6465 Computational Journalism":{
-        "Course Code":"CS 6465",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7642 Reinforcement Learning and Decision Making":{
-        "Course Code":"CS 7642",
-        "OMSCS Course":"CS 7642 Reinforcement Learning",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7642-reinforcement-learning",
-        "Free Course":"Reinforcement Learning",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/reinforcement-learning--ud600"
-    },
-    "CS 6505 Computability, Algorithms, and Complexity":{
-        "Course Code":"CS 6505",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":"Computability, Complexity & Algorithms",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/computability-complexity-algorithms--ud061"
-    },
-    "CSE 6140 Computational Science and Engineering Algorithms":{
-        "Course Code":"CSE 6140",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6340 Software Analysis and Testing":{
-        "Course Code":"CS 6340",
-        "OMSCS Course":"CS 6340 Software Analysis",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6340-software-analysis",
-        "Free Course":"Software Analysis & Testing",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/software-analysis-testing--ud333"
-    },
-    "CS\/CSE 6230 High-Performance Parallel Computing: Tools and Applications":{
-        "Course Code":"CS\/CSE 6230",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6390 Programming Languages":{
-        "Course Code":"CS 6390",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6291 Embedded Software Optimization":{
-        "Course Code":"CS 6291",
-        "OMSCS Course":"CS 6291 Embedded Systems Optimization",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6291-embedded-systems-optimization",
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7545 Machine Learning Theory":{
-        "Course Code":"CS 7545",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7280 Network Science":{
-        "Course Code":"CS 7280",
-        "OMSCS Course":"CS 7280 Network Science",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7280-network-science",
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "ISYE 6644 Simulation":{
-        "Course Code":"ISYE 6644",
-        "OMSCS Course":"ISYE 6644 Simulation and Modeling for Engineering and Science",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/isye-6644-simulation-and-modeling-engineering-and-science",
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "ISYE 6416 Computational Statistics":{
-        "Course Code":"ISYE 6416",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "INTA 6742 Modeling, Simulation and Military Gaming":{
-        "Course Code":"INTA 6742",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7643 Deep Learning":{
-        "Course Code":"CS 7643",
-        "OMSCS Course":"CS 7643 Deep Learning",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7643-deep-learning",
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6210 Advanced Operating Systems":{
-        "Course Code":"CS 6210",
-        "OMSCS Course":"CS 6210 Advanced Operating Systems",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6210-advanced-operating-systems",
-        "Free Course":"Advanced Operating Systems",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/advanced-operating-systems--ud189"
-    },
-    "CS 7644 Machine Learning for Robotics":{
-        "Course Code":"CS 7644",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CSE\/MATH 6643 Numerical Linear Algebra":{
-        "Course Code":"CSE\/MATH 6643",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "MATH 6640 Introduction to Numerical Methods for Partial Differential Equations":{
-        "Course Code":"MATH 6640",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6456 Principles of User Interface Software":{
+    "CS 6456 User Interface Software":{
         "Course Code":"CS 6456",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 7639 Cyber Physical Design and Analysis":{
-        "Course Code":"CS 7639",
-        "OMSCS Course":"CS 7639 Cyber-Physical Design and Analysis",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7639-cyber-physical-design-and-analysis",
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7496 Computer Animation":{
-        "Course Code":"CS 7496",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7467 Computer-Supported Collaborative Learning":{
-        "Course Code":"CS 7467",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6320 Software Requirements Analysis and Specification":{
-        "Course Code":"CS 6320",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6730 Data Visualization Principles":{
-        "Course Code":"CS 6730",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CSE\/MATH 6644 Iterative Methods for Systems of Equations":{
-        "Course Code":"CSE\/MATH 6644",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CSE 6220 High Performance Computing":{
-        "Course Code":"CSE 6220",
-        "OMSCS Course":"CSE 6220 Intro to High-Performance Computing",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cse-6220-intro-hpc",
-        "Free Course":"High Performance Computing",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/high-performance-computing--ud281"
-    },
-    "CS 6241 Compiler Design":{
-        "Course Code":"CS 6241",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6310 Software Architecture and Design":{
-        "Course Code":"CS 6310",
-        "OMSCS Course":"CS 6310 Software Architecture and Design",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6310-software-architecture-design",
-        "Free Course":"Software Architecture & Design",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/software-architecture-design--ud821"
-    },
-    "CS 6455 User Interface Design and Evaluation":{
-        "Course Code":"CS 6455",
+    "CS 7535 Markov Chain Monte Carlo":{
+        "Course Code":"CS 7535",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
@@ -440,73 +20,45 @@
         "Free Course":"Network Security",
         "Free Course Link":"https:\/\/www.udacity.com\/course\/network-security--ud199"
     },
-    "CS 6795 Introduction to Cognitive Science":{
-        "Course Code":"CS 6795",
+    "CS 6475 Computational Photography":{
+        "Course Code":"CS 6475",
+        "OMSCS Course":"CS 6475 Computational Photography",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6475-computational-photography",
+        "Free Course":"Computational Photography",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/computational-photography--ud955"
+    },
+    "CS 6210 Advanced Operating Systems":{
+        "Course Code":"CS 6210",
+        "OMSCS Course":"CS 6210 Advanced Operating Systems",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6210-advanced-operating-systems",
+        "Free Course":"Advanced Operating Systems",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/advanced-operating-systems--ud189"
+    },
+    "CS 6457 Video Game Design":{
+        "Course Code":"CS 6457",
+        "OMSCS Course":"CS 6457 Video Game Design",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6457-video-game-design",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7631 Multi-Robot Systems":{
+        "Course Code":"CS 7631",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS\/CSE 8803 Special Topics: Parallel Numerical Algorithms":{
-        "Course Code":"CS\/CSE 8803",
+    "CS 7540 Spectral Algorithms":{
+        "Course Code":"CS 7540",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 6763 Design of Design Environments":{
-        "Course Code":"CS 6763",
+    "CS 7648 Interactive Robot Learning":{
+        "Course Code":"CS 7648",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7260 Internetworking Architectures and Protocols":{
-        "Course Code":"CS 7260",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7790 Cognitive Modeling":{
-        "Course Code":"CS 7790",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6491 Foundations of Computer Graphics":{
-        "Course Code":"CS 6491",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6550 Design and Analysis of Algorithms":{
-        "Course Code":"CS 6550",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CSE 6242 Data and Visual Analytics":{
-        "Course Code":"CSE 6242",
-        "OMSCS Course":"CSE 6242 Data and Visual Analytics",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cse-6242-data-visual-analytics",
-        "Free Course":"Data Analysis and Visualization",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/data-analysis-and-visualization--ud404"
-    },
-    "CS 6300 Software Development Process":{
-        "Course Code":"CS 6300",
-        "OMSCS Course":"CS 6300 Software Development Process",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6300-software-development-process",
-        "Free Course":"Software Development Process",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/software-development-process--ud805"
-    },
-    "CS 6440 Introduction to Health Informatics":{
-        "Course Code":"CS 6440",
-        "OMSCS Course":"CS 6440 Intro to Health Informatics",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6440-intro-health-informatics",
         "Free Course":null,
         "Free Course Link":null
     },
@@ -517,66 +69,17 @@
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 6476 Computer Vision":{
-        "Course Code":"CS 6476",
-        "OMSCS Course":"CS 6476 Computer Vision",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6476-computer-vision",
-        "Free Course":"Introduction to Computer Vision",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/introduction-to-computer-vision--ud810"
-    },
-    "CS 7499 3D Reconstruction":{
-        "Course Code":"CS 7499",
+    "CS 7647 Machine Learning with Limited Supervision":{
+        "Course Code":"CS 7647",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 7649 Robot Intelligence: Planning":{
-        "Course Code":"CS 7649",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7638 Artificial Intelligence Techniques for Robotics":{
-        "Course Code":"CS 7638",
-        "OMSCS Course":"CS 7638 Robotics AI Techniques",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7638-robotics-ai-techniques",
-        "Free Course":"Artificial Intelligence for Robotics",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/artificial-intelligence-for-robotics--cs373"
-    },
-    "CS 7636 Computational Perception":{
-        "Course Code":"CS 7636",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CSE 8803 Special Topics: Hot Topics in Parallel Computing":{
-        "Course Code":"CSE 8803",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6457 Video Game Design and Programming":{
-        "Course Code":"CS 6457",
-        "OMSCS Course":"CS 6457 Video Game Design",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6457-video-game-design",
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7210 Distributed Computing":{
-        "Course Code":"CS 7210",
-        "OMSCS Course":"CS 7210 Distributed Computing",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7210-distributed-computing",
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6603 AI, Ethics, and Society":{
-        "Course Code":"CS 6603",
-        "OMSCS Course":"CS 6603 AI, Ethics, and Society",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6603-ai-ethics-and-society",
+    "CS 7280 Network Science":{
+        "Course Code":"CS 7280",
+        "OMSCS Course":"CS 7280 Network Science",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7280-network-science",
         "Free Course":null,
         "Free Course Link":null
     },
@@ -587,33 +90,12 @@
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 7530 Randomized Algorithms":{
-        "Course Code":"CS 7530",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7616 Pattern Recognition":{
-        "Course Code":"CS 7616",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7451 Human-Centered Data Analysis":{
-        "Course Code":"CS 7451",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7460 Collaborative Computing":{
-        "Course Code":"CS 7460",
-        "OMSCS Course":null,
-        "OMSCS Course Link":null,
-        "Free Course":null,
-        "Free Course Link":null
+    "CSE 6250 Big Data for Health":{
+        "Course Code":"CSE 6250",
+        "OMSCS Course":"CSE 6250 Big Data for Health Informatics",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cse-8803-special-topics-big-data-for-health-informatics",
+        "Free Course":"Big Data Analytics in Healthcare",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/big-data-analytics-in-healthcare--ud758"
     },
     "CS 6675 Advanced Internet Computing Systems and Applications":{
         "Course Code":"CS 6675",
@@ -622,43 +104,43 @@
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 7292 Reliability and Security in Computer Architecture":{
-        "Course Code":"CS 7292",
+    "CS 6457 Video Game Design and Programming":{
+        "Course Code":"CS 6457",
+        "OMSCS Course":"CS 6457 Video Game Design",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6457-video-game-design",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6263 Intro to Cyber Physical Systems Security":{
+        "Course Code":"CS 6263",
+        "OMSCS Course":"CS 6263 Intro to\u00a0Cyber\u00a0Physical Systems Security",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6263-Intro-to-Cyber-Physical-Systems-Security",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CSE 8803 Special Topics: Algorithms for Medical Imaging and Inverse Problems":{
+        "Course Code":"CSE 8803",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 6250 Computer Networks":{
-        "Course Code":"CS 6250",
-        "OMSCS Course":"CS 6250 Computer Networks",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6250-computer-networks",
-        "Free Course":"Computer Networking",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/computer-networking--ud436"
-    },
-    "CS 6260 Applied Cryptography":{
-        "Course Code":"CS 6260",
-        "OMSCS Course":"CS 6260 Applied Cryptography",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6260-applied-cryptography",
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CSE 6740 Computational Data Analysis":{
-        "Course Code":"CSE 6740",
+    "MATH 6640 Introduction to Numerical Methods for Partial Differential Equations":{
+        "Course Code":"MATH 6640",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 7465 Educational Technology: Design and Evaluation":{
-        "Course Code":"CS 7465",
+    "CS 6770 Mixed Reality Experience Design":{
+        "Course Code":"CS 6770",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 6235 Real Time Systems":{
-        "Course Code":"CS 6235",
+    "CS 6452 Prototyping Interactive Systems":{
+        "Course Code":"CS 6452",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
@@ -671,6 +153,41 @@
         "Free Course":null,
         "Free Course Link":null
     },
+    "CSE 6221 Multicore Computing: Concurrency and Parallelism on the Desktop":{
+        "Course Code":"CSE 6221",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6260 Applied Cryptography":{
+        "Course Code":"CS 6260",
+        "OMSCS Course":"CS 6260 Applied Cryptography",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6260-applied-cryptography",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6474 Social Computing":{
+        "Course Code":"CS 6474",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CSE 6140 Computational Science and Engineering Algorithms":{
+        "Course Code":"CSE 6140",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7210 Distributed Computing":{
+        "Course Code":"CS 7210",
+        "OMSCS Course":"CS 7210 Distributed Computing",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7210-distributed-computing",
+        "Free Course":null,
+        "Free Course Link":null
+    },
     "CS 6515 Introduction to Graduate Algorithms":{
         "Course Code":"CS 6515",
         "OMSCS Course":"CS 6515 Intro to\u00a0Graduate Algorithms",
@@ -678,43 +195,106 @@
         "Free Course":"Introduction to Graduate Algorithms",
         "Free Course Link":"https:\/\/www.udacity.com\/course\/introduction-to-graduate-algorithms--ud401"
     },
-    "CS 6301 Advanced Topics in Software Engineering":{
-        "Course Code":"CS 6301",
+    "CS 7510 Graph Algorithms":{
+        "Course Code":"CS 7510",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 7646 Machine Learning for Trading":{
-        "Course Code":"CS 7646",
-        "OMSCS Course":"CS 7646 Machine Learning for Trading",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7646-machine-learning-trading",
-        "Free Course":"Machine Learning for Trading",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/machine-learning-for-trading--ud501"
-    },
-    "CS 6520 Computational Complexity Theory":{
-        "Course Code":"CS 6520",
+    "CS 6491 Foundations of Computer Graphics":{
+        "Course Code":"CS 6491",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 6220 Big Data Systems and Analytics":{
-        "Course Code":"CS 6220",
+    "CS 7270 Networked Applications and Services":{
+        "Course Code":"CS 7270",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 6263 Intro to Cyber Physical Systems Security":{
-        "Course Code":"CS 6263",
-        "OMSCS Course":"CS 6263 Intro to\u00a0Cyber\u00a0Physical Systems Security",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6263-Intro-to-Cyber-Physical-Systems-Security",
+    "CS 7626 Behavioral Imaging":{
+        "Course Code":"CS 7626",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 6365 Introduction to Enterprise Computing":{
-        "Course Code":"CS 6365",
+    "CSE 6740 Computational Data Analysis":{
+        "Course Code":"CSE 6740",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CSE 8803\/CHEM 6485 Computational Chemistry":{
+        "Course Code":"CSE 8803\/CHEM",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7465 Educational Technology: Design and Evaluation":{
+        "Course Code":"CS 7465",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6603 AI, Ethics, and Society":{
+        "Course Code":"CS 6603",
+        "OMSCS Course":"CS 6603 AI, Ethics, and Society",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6603-ai-ethics-and-society",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6750 Human-Computer Interaction":{
+        "Course Code":"CS 6750",
+        "OMSCS Course":"CS 6750 Human-Computer Interaction",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6750-human-computer-interaction",
+        "Free Course":"Human-Computer Interaction",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/human-computer-interaction--ud400"
+    },
+    "CS 7638 Artificial Intelligence Techniques for Robotics":{
+        "Course Code":"CS 7638",
+        "OMSCS Course":"CS 7638 Robotics AI Techniques",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7638-robotics-ai-techniques",
+        "Free Course":"Artificial Intelligence for Robotics",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/artificial-intelligence-for-robotics--cs373"
+    },
+    "CSE 6220 High Performance Computing":{
+        "Course Code":"CSE 6220",
+        "OMSCS Course":"CSE 6220 Intro to High-Performance Computing",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cse-6220-intro-hpc",
+        "Free Course":"High Performance Computing",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/high-performance-computing--ud281"
+    },
+    "CS 7651 Human and Machine Learning":{
+        "Course Code":"CS 7651",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7632 Game AI":{
+        "Course Code":"CS 7632",
+        "OMSCS Course":"CS 7632 Game AI",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7632-game-ai",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6795 Introduction to Cognitive Science":{
+        "Course Code":"CS 6795",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7633 Human Robot Interaction":{
+        "Course Code":"CS 7633",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
@@ -727,43 +307,246 @@
         "Free Course":"Introduction to Operating Systems",
         "Free Course Link":"https:\/\/www.udacity.com\/course\/introduction-to-operating-systems--ud923"
     },
-    "CS 7510 Graph Algorithms":{
-        "Course Code":"CS 7510",
+    "CS 7639 Cyber Physical Design and Analysis":{
+        "Course Code":"CS 7639",
+        "OMSCS Course":"CS 7639 Cyber-Physical Design and Analysis",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7639-cyber-physical-design-and-analysis",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6010 Principles of Design":{
+        "Course Code":"CS 6010",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 6457 Video Game Design":{
-        "Course Code":"CS 6457",
-        "OMSCS Course":"CS 6457 Video Game Design",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6457-video-game-design",
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 6238 Secure Computer Systems":{
-        "Course Code":"CS 6238",
-        "OMSCS Course":"CS 6238 Secure Computer Systems",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6238-secure-computer-systems",
-        "Free Course":null,
-        "Free Course Link":null
-    },
-    "CS 7641 Machine Learning":{
-        "Course Code":"CS 7641",
-        "OMSCS Course":"CS 7641 Machine Learning",
-        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7641-machine-learning",
-        "Free Course":"Machine Learning",
-        "Free Course Link":"https:\/\/www.udacity.com\/course\/machine-learning--ud262"
-    },
-    "CS 7540 Spectral Algorithms":{
-        "Course Code":"CS 7540",
+    "CS 6492 Shape Grammars":{
+        "Course Code":"CS 6492",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
         "Free Course Link":null
     },
-    "ISYE 6664 Stochastic Optimization":{
-        "Course Code":"ISYE 6664",
+    "CS 7499 3D Reconstruction":{
+        "Course Code":"CS 7499",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7260 Internetworking Architectures and Protocols":{
+        "Course Code":"CS 7260",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7637 Knowledge-Based AI":{
+        "Course Code":"CS 7637",
+        "OMSCS Course":"CS 7637 Knowledge-Based Artificial Intelligence - Cognitive Systems",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7637-knowledge-based-artificial-intelligence-cognitive-systems",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CSE\/MATH 6643 Numerical Linear Algebra":{
+        "Course Code":"CSE\/MATH 6643",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6440 Introduction to Health Informatics":{
+        "Course Code":"CS 6440",
+        "OMSCS Course":"CS 6440 Intro to Health Informatics",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6440-intro-health-informatics",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CSE 6242 Data and Visual Analytics":{
+        "Course Code":"CSE 6242",
+        "OMSCS Course":"CSE 6242 Data and Visual Analytics",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cse-6242-data-visual-analytics",
+        "Free Course":"Data Analysis and Visualization",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/data-analysis-and-visualization--ud404"
+    },
+    "CS 7530 Randomized Algorithms":{
+        "Course Code":"CS 7530",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6300 Software Development Process":{
+        "Course Code":"CS 6300",
+        "OMSCS Course":"CS 6300 Software Development Process",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6300-software-development-process",
+        "Free Course":"Software Development Process",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/software-development-process--ud805"
+    },
+    "CS 6290 High-Performance Computer Architecture":{
+        "Course Code":"CS 6290",
+        "OMSCS Course":"CS 6290 High Performance Computer Architecture",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6290-high-performance-computer-architecture",
+        "Free Course":"High Performance Computer Architecture",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/high-performance-computer-architecture--ud007"
+    },
+    "CS 6465 Computational Journalism":{
+        "Course Code":"CS 6465",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6550 Design and Analysis of Algorithms":{
+        "Course Code":"CS 6550",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6220 Big Data Systems & Analysis":{
+        "Course Code":"CS 6220",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6301 Advanced Topics in Software Engineering":{
+        "Course Code":"CS 6301",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6730 Data Visualization Principles":{
+        "Course Code":"CS 6730",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6320 Software Requirements Analysis and Specification":{
+        "Course Code":"CS 6320",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6241 Compiler Design":{
+        "Course Code":"CS 6241",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6471 Computational Social Science":{
+        "Course Code":"CS 6471",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CSE\/MATH 6644 Iterative Methods for Systems of Equations":{
+        "Course Code":"CSE\/MATH 6644",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7646 Machine Learning for Trading":{
+        "Course Code":"CS 7646",
+        "OMSCS Course":"CS 7646 Machine Learning for Trading",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7646-machine-learning-trading",
+        "Free Course":"Machine Learning for Trading",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/machine-learning-for-trading--ud501"
+    },
+    "CS 7470 Mobile and Ubiquitous Computing":{
+        "Course Code":"CS 7470",
+        "OMSCS Course":"CS 7470 Mobile & Ubiquitous Computing",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7470-mobile-ubiquitous-computing",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CSE 8803 Special Topics: Hot Topics in Parallel Computing":{
+        "Course Code":"CSE 8803",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6451 Intro to HCC":{
+        "Course Code":"CS 6451",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6730 Data Visualization: Principles & Applications":{
+        "Course Code":"CS 6730",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "ISYE 6644 Simulation":{
+        "Course Code":"ISYE 6644",
+        "OMSCS Course":"ISYE 6644 Simulation and Modeling for Engineering and Science",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/isye-6644-simulation-and-modeling-engineering-and-science",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "INTA 6742 Modeling, Simulation and Military Gaming":{
+        "Course Code":"INTA 6742",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6456 Principles of User Interface Software":{
+        "Course Code":"CS 6456",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6035 Introduction to Information Security":{
+        "Course Code":"CS 6035",
+        "OMSCS Course":"CS 6035 Introduction to Information Security",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6035-introduction-to-information-security",
+        "Free Course":"Introduction to Information Security",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/intro-to-information-security--ud459"
+    },
+    "CS 7455 Issues in HCC":{
+        "Course Code":"CS 7455",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7461 Machine Learning":{
+        "Course Code":"CS 7461",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7642 Reinforcement Learning and Decision Making":{
+        "Course Code":"CS 7642",
+        "OMSCS Course":"CS 7642 Reinforcement Learning",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7642-reinforcement-learning",
+        "Free Course":"Reinforcement Learning",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/reinforcement-learning--ud600"
+    },
+    "CS 7634 AI Storytelling in Virtual Worlds":{
+        "Course Code":"CS 7634",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "ISYE 6416 Computational Statistics":{
+        "Course Code":"ISYE 6416",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
@@ -776,8 +559,106 @@
         "Free Course":"Educational Technology",
         "Free Course Link":"https:\/\/www.udacity.com\/course\/educational-technology--ud915"
     },
-    "CS 6422 Database System Implementation":{
-        "Course Code":"CS 6422",
+    "CSE 6236 Parallel and Distributed Simulation":{
+        "Course Code":"CSE 6236",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6310 Software Architecture and Design":{
+        "Course Code":"CS 6310",
+        "OMSCS Course":"CS 6310 Software Architecture and Design",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6310-software-architecture-design",
+        "Free Course":"Software Architecture & Design",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/software-architecture-design--ud821"
+    },
+    "CS 7476 Advanced Computer Vision":{
+        "Course Code":"CS 7476",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7636 Computational Perception":{
+        "Course Code":"CS 7636",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS\/CSE 8803 Special Topics: Parallel Numerical Algorithms":{
+        "Course Code":"CS\/CSE 8803",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7610 Modeling and Design":{
+        "Course Code":"CS 7610",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6340 Software Analysis and Testing":{
+        "Course Code":"CS 6340",
+        "OMSCS Course":"CS 6340 Software Analysis",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6340-software-analysis",
+        "Free Course":"Software Analysis & Testing",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/software-analysis-testing--ud333"
+    },
+    "CS 7643 Deep Learning":{
+        "Course Code":"CS 7643",
+        "OMSCS Course":"CS 7643 Deep Learning",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7643-deep-learning",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7697 Cognitive Models of Science and Technology":{
+        "Course Code":"CS 7697",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "ISYE 6664 Stochastic Optimization":{
+        "Course Code":"ISYE 6664",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6238 Secure Computer Systems":{
+        "Course Code":"CS 6238",
+        "OMSCS Course":"CS 6238 Secure Computer Systems",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6238-secure-computer-systems",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS\/CSE 6230 High-Performance Parallel Computing: Tools and Applications":{
+        "Course Code":"CS\/CSE 6230",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7644 Machine Learning for Robotics":{
+        "Course Code":"CS 7644",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6390 Programming Languages":{
+        "Course Code":"CS 6390",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7620 Case-based Reasoning":{
+        "Course Code":"CS 7620",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
@@ -790,11 +671,249 @@
         "Free Course":null,
         "Free Course Link":null
     },
-    "CS 7535 Markov Chain Monte Carlo":{
-        "Course Code":"CS 7535",
+    "CS 7467 Computer-Supported Collaborative Learning":{
+        "Course Code":"CS 7467",
         "OMSCS Course":null,
         "OMSCS Course Link":null,
         "Free Course":null,
         "Free Course Link":null
+    },
+    "CSE 6240 Web Search and Text Mining":{
+        "Course Code":"CSE 6240",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7560 Theory of Cryptography":{
+        "Course Code":"CS 7560",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6505 Computability, Algorithms, and Complexity":{
+        "Course Code":"CS 6505",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":"Computability, Complexity & Algorithms",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/computability-complexity-algorithms--ud061"
+    },
+    "CS 7616 Pattern Recognition":{
+        "Course Code":"CS 7616",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7633 Human-Robot Interaction":{
+        "Course Code":"CS 7633",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7290 Advanced Topics in Microarchitecture":{
+        "Course Code":"CS 7290",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6470 Design of Online Communities":{
+        "Course Code":"CS 6470",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7790 Cognitive Modeling":{
+        "Course Code":"CS 7790",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "ISYE 6420 Bayesian Methods":{
+        "Course Code":"ISYE 6420",
+        "OMSCS Course":"ISYE 6420 Bayesian Statistics",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/isye-6420-bayesian-statistics",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7496 Computer Animation":{
+        "Course Code":"CS 7496",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6400 Database Systems Concepts and Designs":{
+        "Course Code":"CS 6400",
+        "OMSCS Course":"CS 6400 Database Systems Concepts and Design",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6400-database-systems-concepts-and-design",
+        "Free Course":"Database Systems Concepts & Design",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/database-systems-concepts-design--ud150"
+    },
+    "CS 6520 Computational Complexity Theory":{
+        "Course Code":"CS 6520",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6455 User Interface Design and Evaluation":{
+        "Course Code":"CS 6455",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6365 Introduction to Enterprise Computing":{
+        "Course Code":"CS 6365",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6763 Design of Design Environments":{
+        "Course Code":"CS 6763",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7631 Autonomous Multi-Robot Systems":{
+        "Course Code":"CS 7631",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6601 Artificial Intelligence":{
+        "Course Code":"CS 6601",
+        "OMSCS Course":"CS 6601 Artificial Intelligence",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6601-artificial-intelligence",
+        "Free Course":"Artificial Intelligence",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/artificial-intelligence--ud954"
+    },
+    "CS 7695 Philosophy of Cognition":{
+        "Course Code":"CS 7695",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7450 Information Visualization":{
+        "Course Code":"CS 7450",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7292 Reliability and Security in Computer Architecture":{
+        "Course Code":"CS 7292",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6422 Database System Implementation":{
+        "Course Code":"CS 6422",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7630 Autonomous Robotics":{
+        "Course Code":"CS 7630",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7451 Human-Centered Data Analysis":{
+        "Course Code":"CS 7451",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7650 Natural Language":{
+        "Course Code":"CS 7650",
+        "OMSCS Course":"CS 7650 Natural Language Processing",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7650-natural-language-processing",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7460 Collaborative Computing":{
+        "Course Code":"CS 7460",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7545 Machine Learning Theory":{
+        "Course Code":"CS 7545",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6291 Embedded Software Optimization":{
+        "Course Code":"CS 6291",
+        "OMSCS Course":"CS 6291 Embedded Systems Optimization",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6291-embedded-systems-optimization",
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6235 Real Time Systems":{
+        "Course Code":"CS 6235",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6491 Computer Graphics":{
+        "Course Code":"CS 6491",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6220 Big Data Systems and Analytics":{
+        "Course Code":"CS 6220",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 7641 Machine Learning":{
+        "Course Code":"CS 7641",
+        "OMSCS Course":"CS 7641 Machine Learning",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-7641-machine-learning",
+        "Free Course":"Machine Learning",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/machine-learning--ud262"
+    },
+    "CS 6250 Computer Networks":{
+        "Course Code":"CS 6250",
+        "OMSCS Course":"CS 6250 Computer Networks",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6250-computer-networks",
+        "Free Course":"Computer Networking",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/computer-networking--ud436"
+    },
+    "CS 7649 Robot Intelligence: Planning":{
+        "Course Code":"CS 7649",
+        "OMSCS Course":null,
+        "OMSCS Course Link":null,
+        "Free Course":null,
+        "Free Course Link":null
+    },
+    "CS 6476 Computer Vision":{
+        "Course Code":"CS 6476",
+        "OMSCS Course":"CS 6476 Computer Vision",
+        "OMSCS Course Link":"https:\/\/omscs.gatech.edu\/cs-6476-computer-vision",
+        "Free Course":"Introduction to Computer Vision",
+        "Free Course Link":"https:\/\/www.udacity.com\/course\/introduction-to-computer-vision--ud810"
     }
 }

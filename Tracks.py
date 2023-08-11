@@ -1,6 +1,8 @@
 # References:
 # - https://docs.streamlit.io/
 
+from itertools import zip_longest
+
 import streamlit as st
 
 from data import (
@@ -30,15 +32,30 @@ tabs = st.tabs([f'{e} {t}' for e, t in zip([':lock:', ':thought_balloon:'], trac
 for tab, (course_type, course_subset) in zip(tabs, tracks[track].items()):
     with tab:
         for subset in course_subset:
-            selected = 0
-            st.markdown(f'_Pick {subset["Pick"]} from:_')
-            for i, course in enumerate(subset['Courses']):
+            selected = {'': 0}
+            prev_subarea = None
+            subareas = subset.get('Sub-area', [None])
+            if subarea_condition := subset.get('Sub-area Condition', ''):
+                subarea_condition = f' ({subarea_condition})'
+            st.markdown(f'_Pick {subset["Pick"]} from{subarea_condition}:_')
+            for i, (course, subarea) in enumerate(zip_longest(subset['Courses'], subareas)):
                 left_col, right_col = st.columns([8, 2], gap='small')
                 with left_col:
-                    selected += st.checkbox(get_omscs_course_link(course), key=f'{course_type}_{course}_{i}')
+                    if subarea != prev_subarea:
+                        st.markdown(f'__{subarea}__')
+                    prev_subarea = subarea
+                    s = st.checkbox(get_omscs_course_link(course), key=f'{course_type}_{course}_{i}')
+                    if subarea:
+                        selected[subarea] = selected.get(subarea, 0) + s
+                    selected[''] += s
                 with right_col:
                     st.markdown(get_free_course_link(course), unsafe_allow_html=True)
-            if selected > subset['Pick']:
+            if selected[''] > subset['Pick']:
                 st.error(':worried: You could do that but it is not necessary.')
+            if subset.get('Sub-area Condition'):
+                for k, v in selected.items():
+                    if k and v < 1:
+                        st.error(':worried: Please select at least one from each sub-area.')
+                        break
 
 st.divider()

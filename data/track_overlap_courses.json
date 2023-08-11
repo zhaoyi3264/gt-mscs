@@ -15,7 +15,22 @@
         "High Performance Computing": [
             "CSE 6140 Computational Science and Engineering Algorithms"
         ],
+        "Human Centered Computing": [
+            "CS 6476 Computer Vision",
+            "CS 6601 Artificial Intelligence",
+            "CS 7650 Natural Language"
+        ],
         "Human-Computer Interaction": [],
+        "Interactive Intelligence": [
+            "CS 6476 Computer Vision",
+            "CS 6505 Computability, Algorithms, and Complexity",
+            "CS 6515 Introduction to Graduate Algorithms",
+            "CS 6601 Artificial Intelligence",
+            "CS 7633 Human-Robot Interaction",
+            "CS 7641 Machine Learning",
+            "CS 7650 Natural Language",
+            "CSE 6140 Computational Science and Engineering Algorithms"
+        ],
         "Machine Learning": [
             "CS 6476 Computer Vision",
             "CS 6505 Computability, Algorithms, and Complexity",
@@ -55,9 +70,18 @@
             "CS 6515 Introduction to Graduate Algorithms"
         ],
         "High Performance Computing": [],
+        "Human Centered Computing": [
+            "CS 6476 Computer Vision",
+            "CS 7450 Information Visualization"
+        ],
         "Human-Computer Interaction": [
             "CS 6457 Video Game Design",
             "CS 7450 Information Visualization"
+        ],
+        "Interactive Intelligence": [
+            "CS 6476 Computer Vision",
+            "CS 6505 Computability, Algorithms, and Complexity",
+            "CS 6515 Introduction to Graduate Algorithms"
         ],
         "Machine Learning": [
             "CS 6476 Computer Vision",
@@ -91,7 +115,14 @@
             "CS 6290 High-Performance Computer Architecture",
             "CSE 6220 High Performance Computing"
         ],
+        "Human Centered Computing": [],
         "Human-Computer Interaction": [],
+        "Interactive Intelligence": [
+            "CS 6300 Software Development Process",
+            "CS 6301 Advanced Topics in Software Engineering",
+            "CS 6505 Computability, Algorithms, and Complexity",
+            "CS 6515 Introduction to Graduate Algorithms"
+        ],
         "Machine Learning": [
             "CS 6505 Computability, Algorithms, and Complexity",
             "CS 6515 Introduction to Graduate Algorithms",
@@ -128,7 +159,11 @@
             "CSE 6220 High Performance Computing"
         ],
         "High Performance Computing": [],
+        "Human Centered Computing": [],
         "Human-Computer Interaction": [],
+        "Interactive Intelligence": [
+            "CSE 6140 Computational Science and Engineering Algorithms"
+        ],
         "Machine Learning": [
             "CSE 6140 Computational Science and Engineering Algorithms"
         ],
@@ -145,6 +180,72 @@
         "Social Computing": [],
         "Visual Analytics": []
     },
+    "Human Centered Computing": {
+        "Computational Perception and Robotics": [
+            "CS 6476 Computer Vision",
+            "CS 6601 Artificial Intelligence",
+            "CS 7650 Natural Language"
+        ],
+        "Computer Graphics": [
+            "CS 6476 Computer Vision",
+            "CS 7450 Information Visualization"
+        ],
+        "Computing Systems": [],
+        "High Performance Computing": [],
+        "Human Centered Computing": [],
+        "Human-Computer Interaction": [
+            "CS 6455 User Interface Design and Evaluation",
+            "CS 6460 Educational Technology: Conceptual Foundations",
+            "CS 6465 Computational Journalism",
+            "CS 6470 Design of Online Communities",
+            "CS 6730 Data Visualization: Principles & Applications",
+            "CS 6750 Human-Computer Interaction",
+            "CS 6795 Introduction to Cognitive Science",
+            "CS 7450 Information Visualization",
+            "CS 7451 Human-Centered Data Analysis",
+            "CS 7460 Collaborative Computing",
+            "CS 7470 Mobile and Ubiquitous Computing",
+            "CS 7790 Cognitive Modeling"
+        ],
+        "Interactive Intelligence": [
+            "CS 6460 Educational Technology: Conceptual Foundations",
+            "CS 6465 Computational Journalism",
+            "CS 6471 Computational Social Science",
+            "CS 6476 Computer Vision",
+            "CS 6601 Artificial Intelligence",
+            "CS 6750 Human-Computer Interaction",
+            "CS 6795 Introduction to Cognitive Science",
+            "CS 7610 Modeling and Design",
+            "CS 7632 Game AI",
+            "CS 7637 Knowledge-Based AI",
+            "CS 7650 Natural Language"
+        ],
+        "Machine Learning": [
+            "CS 6476 Computer Vision",
+            "CS 7650 Natural Language"
+        ],
+        "Modeling and Simulations": [],
+        "Scientific Computing": [],
+        "Social Computing": [
+            "CS 6465 Computational Journalism",
+            "CS 6470 Design of Online Communities",
+            "CS 6471 Computational Social Science",
+            "CS 6474 Social Computing",
+            "CS 6730 Data Visualization: Principles & Applications",
+            "CS 6750 Human-Computer Interaction",
+            "CS 7450 Information Visualization",
+            "CS 7451 Human-Centered Data Analysis",
+            "CS 7650 Natural Language"
+        ],
+        "Visual Analytics": [
+            "CS 6465 Computational Journalism",
+            "CS 6730 Data Visualization: Principles & Applications",
+            "CS 6750 Human-Computer Interaction",
+            "CS 6795 Introduction to Cognitive Science",
+            "CS 7450 Information Visualization",
+            "CS 7451 Human-Centered Data Analysis"
+        ]
+    },
     "Human-Computer Interaction": {
         "Computational Perception and Robotics": [],
         "Computer Graphics": [
@@ -153,7 +254,28 @@
         ],
         "Computing Systems": [],
         "High Performance Computing": [],
+        "Human Centered Computing": [
+            "CS 6455 User Interface Design and Evaluation",
+            "CS 6460 Educational Technology: Conceptual Foundations",
+            "CS 6465 Computational Journalism",
+            "CS 6470 Design of Online Communities",
+            "CS 6730 Data Visualization: Principles & Applications",
+            "CS 6750 Human-Computer Interaction",
+            "CS 6795 Introduction to Cognitive Science",
+            "CS 7450 Information Visualization",
+            "CS 7451 Human-Centered Data Analysis",
+            "CS 7460 Collaborative Computing",
+            "CS 7470 Mobile and Ubiquitous Computing",
+            "CS 7790 Cognitive Modeling"
+        ],
         "Human-Computer Interaction": [],
+        "Interactive Intelligence": [
+            "CS 6440 Introduction to Health Informatics",
+            "CS 6460 Educational Technology: Conceptual Foundations",
+            "CS 6465 Computational Journalism",
+            "CS 6750 Human-Computer Interaction",
+            "CS 6795 Introduction to Cognitive Science"
+        ],
         "Machine Learning": [],
         "Modeling and Simulations": [],
         "Scientific Computing": [],
@@ -175,6 +297,81 @@
             "CS 6795 Introduction to Cognitive Science",
             "CS 7450 Information Visualization",
             "CS 7451 Human-Centered Data Analysis"
+        ]
+    },
+    "Interactive Intelligence": {
+        "Computational Perception and Robotics": [
+            "CS 6476 Computer Vision",
+            "CS 6505 Computability, Algorithms, and Complexity",
+            "CS 6515 Introduction to Graduate Algorithms",
+            "CS 6601 Artificial Intelligence",
+            "CS 7633 Human-Robot Interaction",
+            "CS 7641 Machine Learning",
+            "CS 7650 Natural Language",
+            "CSE 6140 Computational Science and Engineering Algorithms"
+        ],
+        "Computer Graphics": [
+            "CS 6476 Computer Vision",
+            "CS 6505 Computability, Algorithms, and Complexity",
+            "CS 6515 Introduction to Graduate Algorithms"
+        ],
+        "Computing Systems": [
+            "CS 6300 Software Development Process",
+            "CS 6301 Advanced Topics in Software Engineering",
+            "CS 6505 Computability, Algorithms, and Complexity",
+            "CS 6515 Introduction to Graduate Algorithms"
+        ],
+        "High Performance Computing": [
+            "CSE 6140 Computational Science and Engineering Algorithms"
+        ],
+        "Human Centered Computing": [
+            "CS 6460 Educational Technology: Conceptual Foundations",
+            "CS 6465 Computational Journalism",
+            "CS 6471 Computational Social Science",
+            "CS 6476 Computer Vision",
+            "CS 6601 Artificial Intelligence",
+            "CS 6750 Human-Computer Interaction",
+            "CS 6795 Introduction to Cognitive Science",
+            "CS 7610 Modeling and Design",
+            "CS 7632 Game AI",
+            "CS 7637 Knowledge-Based AI",
+            "CS 7650 Natural Language"
+        ],
+        "Human-Computer Interaction": [
+            "CS 6440 Introduction to Health Informatics",
+            "CS 6460 Educational Technology: Conceptual Foundations",
+            "CS 6465 Computational Journalism",
+            "CS 6750 Human-Computer Interaction",
+            "CS 6795 Introduction to Cognitive Science"
+        ],
+        "Interactive Intelligence": [],
+        "Machine Learning": [
+            "CS 6476 Computer Vision",
+            "CS 6505 Computability, Algorithms, and Complexity",
+            "CS 6515 Introduction to Graduate Algorithms",
+            "CS 6603 AI, Ethics, and Society",
+            "CS 7641 Machine Learning",
+            "CS 7643 Deep Learning",
+            "CS 7650 Natural Language",
+            "CSE 6140 Computational Science and Engineering Algorithms"
+        ],
+        "Modeling and Simulations": [],
+        "Scientific Computing": [
+            "CSE 6140 Computational Science and Engineering Algorithms"
+        ],
+        "Social Computing": [
+            "CS 6465 Computational Journalism",
+            "CS 6471 Computational Social Science",
+            "CS 6505 Computability, Algorithms, and Complexity",
+            "CS 6515 Introduction to Graduate Algorithms",
+            "CS 6750 Human-Computer Interaction",
+            "CS 7650 Natural Language"
+        ],
+        "Visual Analytics": [
+            "CS 6465 Computational Journalism",
+            "CS 6750 Human-Computer Interaction",
+            "CS 6795 Introduction to Cognitive Science",
+            "CS 7641 Machine Learning"
         ]
     },
     "Machine Learning": {
@@ -205,7 +402,21 @@
         "High Performance Computing": [
             "CSE 6140 Computational Science and Engineering Algorithms"
         ],
+        "Human Centered Computing": [
+            "CS 6476 Computer Vision",
+            "CS 7650 Natural Language"
+        ],
         "Human-Computer Interaction": [],
+        "Interactive Intelligence": [
+            "CS 6476 Computer Vision",
+            "CS 6505 Computability, Algorithms, and Complexity",
+            "CS 6515 Introduction to Graduate Algorithms",
+            "CS 6603 AI, Ethics, and Society",
+            "CS 7641 Machine Learning",
+            "CS 7643 Deep Learning",
+            "CS 7650 Natural Language",
+            "CSE 6140 Computational Science and Engineering Algorithms"
+        ],
         "Machine Learning": [],
         "Modeling and Simulations": [
             "CS 7280 Network Science"
@@ -235,7 +446,9 @@
             "CSE 6220 High Performance Computing",
             "CSE 6236 Parallel and Distributed Simulation"
         ],
+        "Human Centered Computing": [],
         "Human-Computer Interaction": [],
+        "Interactive Intelligence": [],
         "Machine Learning": [
             "CS 7280 Network Science"
         ],
@@ -263,7 +476,11 @@
             "CSE 6140 Computational Science and Engineering Algorithms",
             "CSE 6220 High Performance Computing"
         ],
+        "Human Centered Computing": [],
         "Human-Computer Interaction": [],
+        "Interactive Intelligence": [
+            "CSE 6140 Computational Science and Engineering Algorithms"
+        ],
         "Machine Learning": [
             "CSE 6140 Computational Science and Engineering Algorithms"
         ],
@@ -297,6 +514,17 @@
             "CS 7280 Network Science"
         ],
         "High Performance Computing": [],
+        "Human Centered Computing": [
+            "CS 6465 Computational Journalism",
+            "CS 6470 Design of Online Communities",
+            "CS 6471 Computational Social Science",
+            "CS 6474 Social Computing",
+            "CS 6730 Data Visualization: Principles & Applications",
+            "CS 6750 Human-Computer Interaction",
+            "CS 7450 Information Visualization",
+            "CS 7451 Human-Centered Data Analysis",
+            "CS 7650 Natural Language"
+        ],
         "Human-Computer Interaction": [
             "CS 6456 Principles of User Interface Software",
             "CS 6465 Computational Journalism",
@@ -306,6 +534,14 @@
             "CS 7450 Information Visualization",
             "CS 7451 Human-Centered Data Analysis",
             "CS 7467 Computer-Supported Collaborative Learning"
+        ],
+        "Interactive Intelligence": [
+            "CS 6465 Computational Journalism",
+            "CS 6471 Computational Social Science",
+            "CS 6505 Computability, Algorithms, and Complexity",
+            "CS 6515 Introduction to Graduate Algorithms",
+            "CS 6750 Human-Computer Interaction",
+            "CS 7650 Natural Language"
         ],
         "Machine Learning": [
             "CS 6505 Computability, Algorithms, and Complexity",
@@ -336,6 +572,14 @@
         ],
         "Computing Systems": [],
         "High Performance Computing": [],
+        "Human Centered Computing": [
+            "CS 6465 Computational Journalism",
+            "CS 6730 Data Visualization: Principles & Applications",
+            "CS 6750 Human-Computer Interaction",
+            "CS 6795 Introduction to Cognitive Science",
+            "CS 7450 Information Visualization",
+            "CS 7451 Human-Centered Data Analysis"
+        ],
         "Human-Computer Interaction": [
             "CS 6456 Principles of User Interface Software",
             "CS 6465 Computational Journalism",
@@ -344,6 +588,12 @@
             "CS 6795 Introduction to Cognitive Science",
             "CS 7450 Information Visualization",
             "CS 7451 Human-Centered Data Analysis"
+        ],
+        "Interactive Intelligence": [
+            "CS 6465 Computational Journalism",
+            "CS 6750 Human-Computer Interaction",
+            "CS 6795 Introduction to Cognitive Science",
+            "CS 7641 Machine Learning"
         ],
         "Machine Learning": [
             "CS 7641 Machine Learning",
