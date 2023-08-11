@@ -3,7 +3,7 @@
 # Run the app locally
 Clone the repository.
 ```{bash}
-git clone git@github.com:zhaoyi3264/gt-mscs.git
+git clone https://github.com/zhaoyi3264/gt-mscs.git
 ```
 
 Install the dependencies.
