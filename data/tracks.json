@@ -113,7 +113,15 @@
                     "CS 6390 Programming Languages",
                     "CS 6400 Database Systems Concepts and Designs",
                     "Any Core Courses in excess of the 9 hour requirement may be used as Computing Systems Electives"
-                ]
+                ],
+                "XOR": {
+                    "CS 6300 Software Development Process": [
+                        "CS 6301 Advanced Topics in Software Engineering"
+                    ],
+                    "CS 6301 Advanced Topics in Software Engineering": [
+                        "CS 6300 Software Development Process"
+                    ]
+                }
             }
         ],
         "Electives": [
@@ -228,10 +236,18 @@
             {
                 "Pick": 2,
                 "Courses": [
-                    "CS 6456 Principles of User Interface Software",
                     "CS 7470 Mobile and Ubiquitous Computing",
+                    "CS 6456 Principles of User Interface Software",
                     "CS 6750 Human-Computer Interaction"
-                ]
+                ],
+                "XOR": {
+                    "CS 7470 Mobile and Ubiquitous Computing": [
+                        "CS 6456 Principles of User Interface Software"
+                    ],
+                    "CS 6456 Principles of User Interface Software": [
+                        "CS 7470 Mobile and Ubiquitous Computing"
+                    ]
+                }
             }
         ],
         "Electives": [
