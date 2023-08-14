@@ -236,16 +236,16 @@
             {
                 "Pick": 2,
                 "Courses": [
-                    "CS 7470 Mobile and Ubiquitous Computing",
                     "CS 6456 Principles of User Interface Software",
+                    "CS 7470 Mobile and Ubiquitous Computing",
                     "CS 6750 Human-Computer Interaction"
                 ],
                 "XOR": {
-                    "CS 7470 Mobile and Ubiquitous Computing": [
-                        "CS 6456 Principles of User Interface Software"
-                    ],
                     "CS 6456 Principles of User Interface Software": [
                         "CS 7470 Mobile and Ubiquitous Computing"
+                    ],
+                    "CS 7470 Mobile and Ubiquitous Computing": [
+                        "CS 6456 Principles of User Interface Software"
                     ]
                 }
             }

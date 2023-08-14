@@ -43,3 +43,5 @@ st.dataframe(
         'Free Course Link': st.column_config.LinkColumn()
     }
 )
+
+st.markdown(f'Total: {len(course_to_links)}')

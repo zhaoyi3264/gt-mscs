@@ -1,16 +1,13 @@
-import pandas as pd
-
-from util import load_json_in, map_dict_value, flatten
+from util import load_json_in
 
 data_dir = 'data'
 
 tracks = load_json_in(data_dir, 'tracks.json')
-all_courses = load_json_in(data_dir, 'all_courses.json')
+track_to_courses = load_json_in(data_dir, 'track_to_courses.json')
 track_type_course_count = load_json_in(data_dir, 'track_type_course_count.json')
 track_overlap_courses = load_json_in(data_dir, 'track_overlap_courses.json')
 course_to_links = load_json_in(data_dir, 'course_to_links.json')
-
-track_to_courses = map_dict_value(tracks, lambda v: set(flatten([e['Courses'] for e in flatten(v.values())])))
+all_courses = load_json_in(data_dir, 'all_courses.json')
 
 def get_link(course, link_type):
     return course_to_links.get(course, {}).get(link_type)
